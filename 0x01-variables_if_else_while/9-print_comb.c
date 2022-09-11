@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * main -  print all possible combinations of single digit numbers
+ * main - print all possible combination of single digit numbers
  *
- * Return: Always 0 (Success)
+ * Reruen: Always 0 (success)
  */
 
 int main(void)
 {
 	int number;
-	
+
 	for (number = 0; number <= 9; number++)
 	{
 		putchar(number + '0');
@@ -19,6 +19,7 @@ int main(void)
 			putchar(' ');
 		}
 	}
-		putchar('\n');
-		return (0);
-}	
+	putchar('\n');
+
+	return (0);
+}
