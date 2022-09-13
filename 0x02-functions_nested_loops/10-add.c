@@ -3,7 +3,7 @@
  * add - a function that adds two integers
  * and returns the result.
  *
- * @: number one.
+ * @a: number one.
  * @b: number two.
  *
  * Return: Add of number one and number two.
