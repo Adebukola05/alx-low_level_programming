@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_to_98 - print all natural numbers from input to 98
- * @n: starting point
+ * print_to_98 - print allnatural numbers from input to 98
+ * @n: starting poit
  * Return: void returns nothing.
  */
-void point_to_98(int n)
+void print_to_98(int n)
 {
 	if (n <= 98)
 		for (n = n; n <= 97; n++)
