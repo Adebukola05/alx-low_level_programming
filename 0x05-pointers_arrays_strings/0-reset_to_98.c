@@ -5,11 +5,10 @@
  * @n: value to be change
  *
  * Created by: Adebamipe Ayomide Adebukola
- *
  * cc: 19th september, 2022.
  */
 
- void reset_to_98(int *n)
+void reset_to_98(int *n)
 {
-       	*n = 98;
+	*n = 98;
 }
